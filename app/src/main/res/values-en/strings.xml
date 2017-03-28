@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Printer Tester</string>
+
+    <string name="no_compatible">No compatible</string>
+    <string name="no_bluetooh">Your phone does not have Bluetooth</string>
+    <string name="exit">Salir</string>
+
+    <string name="time_search_expired">The searching time has finised</string>
+    <string name="searching">Searching...</string>
+    <string name="search">Search</string>
+    <string name="stop">Stop</string>
+    <string name="search_sttoped">Search stopped</string>
+    <string name="no_devices">No devices found, try again</string>
+
+    <string name="link_dialog">¿Linked to the device?</string>
+    <string name="link">Link up</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_printer">It is not a printer</string>
+    <string name="linking">Linking...</string>
+    <string name="ok">OK</string>
+    <string name="printer">Printer: </string>
+    <string name="error_connect">Error to connect with the printer</string>
+    <string name="printing">Printing...</string>
+
+    <string name="finished_print">Print finished</string>
+
+    <string name="printer_offline">Printer offline</string>
+    <string name="paper_empty">The paper is empty</string>
+    <string name="cover_open">The cover is open</string>
+
+</resources>
